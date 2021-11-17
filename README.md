@@ -7,6 +7,7 @@
 4. [数组方法](/common/Array2String.js)
 5. [获取当前时间戳的两种方法](/common/date.js)
 6. [防抖和节流](/common/debounce-throttle.js)
+7. [处理价格显示的工具函数](/common/formatPrice.js)
 
 但完善部分：单元测试
 
