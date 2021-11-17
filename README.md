@@ -8,6 +8,7 @@
 5. [获取当前时间戳的两种方法](/common/date.js)
 6. [防抖和节流](/common/debounce-throttle.js)
 7. [处理价格显示的工具函数](/common/formatPrice.js)
+8. [实现一个发布订阅模式](/common/eventEmit.js)
 
 但完善部分：单元测试
 
